@@ -19,7 +19,7 @@
         "device": "/dev/disk/by-partlabel/root",
         "label": "luks-root",
         "name": "root",
-        "wipeVolume": true
+        "wipeVolume": false
       }
     ]
   }
